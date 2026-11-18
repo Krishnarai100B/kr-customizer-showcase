@@ -1,5 +1,4 @@
-// Each category uses the same ProductSection component.
-// Add or remove products here; you do not need to rewrite the JSX.
+
 const products = [
   {
     title: 'Jewelry Accessories',
