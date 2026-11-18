@@ -1,7 +1,5 @@
 # KR Customizer Showcase (React + JavaScript + CSS)
 
-A beginner-friendly, responsive React recreation of the supplied showcase page layout. It uses plain CSS; no Tailwind or Bootstrap.
-
 ## Run the project
 
 1. Install Node.js (LTS) if it is not already installed.
@@ -12,8 +10,6 @@ A beginner-friendly, responsive React recreation of the supplied showcase page l
    npm install
    npm run dev
    ```
-
-4. Open the local URL printed by Vite (usually http://localhost:5173).
 
 ## Where to edit
 
@@ -31,4 +27,3 @@ A beginner-friendly, responsive React recreation of the supplied showcase page l
 - The mobile menu uses `useState` to open and close the navigation.
 - CSS media queries change the layout for tablets and phones.
 
-Product photos are loaded from Unsplash URLs, so an internet connection is needed to display them. Replace the placeholder contact details and image URLs with your own before publishing.
